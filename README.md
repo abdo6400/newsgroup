@@ -41,5 +41,5 @@ Results:
 SVC Model Test Score is: 0.8950863213811421
 SVC Model Train Score is: 0.9996016729735112
 
-![صورة3](https://github.com/abdo6400/newsgroup_using_python/assets/84652350/7312db29-692a-4be0-b4e2-d44fd4089d7a)
+![صورة3](https://github.com/abdo6400/newsgroup_using_python/assets/84652350/0ba89acb-a40c-49ab-b8eb-a1d853e1e1c5)
 
