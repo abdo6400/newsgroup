@@ -1,11 +1,11 @@
-#NEWSGROUP CLASSIFCAITON
+# NEWSGROUP CLASSIFCAITON
 
-#Introduction:
+# Introduction:
 
 The main idea of project is to classify articles to their news group .
 The objectives of this project is to preprocessing on data ,cleaning and train it with proper model .
 
-#Methodology:
+# Methodology:
 We read files data from folders ['alt.atheism','comp.graphics','comp.os.ms-windows.misc','comp.sys.ibm.pc.hardware','comp.sys.mac.hardware','comp.windows.x','misc.forsale','rec.autos','rec.motorcycles','rec.sport.baseball','rec.sport.hockey','sci.crypt','sci.electronics','sci.med','sci.space','soc.religion.christian','talk.politics.guns','talk.politics.mideast','talk.politics.misc','talk.religion.misc']
 
 
@@ -31,7 +31,8 @@ Two columns:
 
 RangeIndex: 18828 entries, 0 to 18827
 Data columns (total 2 columns):
- #   Column Non-Null Count Dtype 
+
+Column Non-Null Count Dtype 
 ---  ------  --------------  ----- 
  0   0       18828 non-null int32 
  1   1       18828 non-null object
